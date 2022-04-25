@@ -1,0 +1,5 @@
+*.key
+*.sql
+*.json
+*.eps
+\__pycache__

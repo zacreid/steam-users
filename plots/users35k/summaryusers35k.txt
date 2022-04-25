@@ -1,0 +1,15 @@
+Default Graph -- -- 
+Created a graph with 13976 nodes and 31503 edges!
+VAC Bans: 342, Comm. Bans: 213, Econ. Bans 0
+Avg. Degree : 4.508156840297653
+Avg. Clustering : 0.29474381783032794
+
+Cheater Graph -- -- 
+Created a cheater graph with 1332 nodes and 3001 edges!
+Avg. Degree : 4.506006006006006
+Avg. Clustering : 0.3586834977729632
+
+Just Cheater Graph -- -- 
+Created a cheater graph with 342 nodes and 31 edges!
+Avg. Degree : 0.18128654970760233
+Avg. Clustering : 0.006822612085769979
